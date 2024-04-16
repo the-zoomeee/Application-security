@@ -2,5 +2,6 @@
 
 
 we will performe several attacks for educational purpose
-1. Masquerade attack
-2. Buffer overflow attack
+1. Buffer overflow attack
+2. Masquerade attack
+
